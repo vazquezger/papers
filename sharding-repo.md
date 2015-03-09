@@ -1,4 +1,4 @@
-# Sharding a data repository to allow concurrent reading components
+# Sharding a data repository to allow concurrent reading
 
 ## Design Problem
 - Components read data from a single, shared data repository
