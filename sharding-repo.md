@@ -28,6 +28,7 @@ point in time)
  
 _Figure 1_ Conceptual architecture of the solution showing the behavior of a producer (see components description
 below)
+![](https://github.com/vazquezger/papers/blob/master/figures/sharding-repo-fig1.png)
 
 ### Tokenizer Component
 There's a tokenizer component that decides the number of shards in the repo.
