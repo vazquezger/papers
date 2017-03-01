@@ -5,6 +5,7 @@
 - [A Case-based Reasoning Approach for Materializing Software Architectures onto Object-Oriented Designs](http://dl.acm.org/citation.cfm?id=1363878)
 
 # Future work / wip
+- Unit, integration and end to end tests: a graphical tale.
 - Using a depth-first/breadth first approach to concurrently traverse a large dataset
 - "Map-produce": an approach to allow concurrent readers to large repositories of data
 - On how run a process homogeneously duting a fixed window of time
