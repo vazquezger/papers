@@ -21,6 +21,6 @@ _Figure 2_ Incremental code coverage and test complexity
 ![](https://github.com/vazquezger/papers/blob/master/figures/tests-code%20coverage.png)
 
 _Figure 3_ Test value and diminishong returns
-![](https://github.com/vazquezger/papers/blob/master/figures/tests-test-diminishing-value.png)
+![](https://github.com/vazquezger/papers/blob/master/figures/tests-diminishing-value.png)
 
 
