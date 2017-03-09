@@ -14,10 +14,10 @@ Owned dependencies are not mocked.
 E2Es exercise the system in combination with eternal dependencies. 
 Nothing is mocked.
 
-_Figure 1_ Numbers of tests per layer and test coverage
+_Figure 1_ Numbers of tests per type and test coverage
 ![](https://github.com/vazquezger/papers/blob/master/figures/tests-num%20of%20tests.png)
 
-_Figure 2_ Incremental code coverage and test complexity
+_Figure 2_ Aggregated code coverage and test complexity
 ![](https://github.com/vazquezger/papers/blob/master/figures/tests-code%20coverage.png)
 
 _Figure 3_ Test value and diminishong returns
