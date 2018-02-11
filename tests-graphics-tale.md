@@ -11,13 +11,17 @@ Owned dependencies are not mocked, whenever you can. If available you can hit th
 **End to end tests**.   
 E2Es exercise the system hitting actual dependencies, nothing is mocked.
 
-## Numbers of tests per type and test complexity
+## Numbers of tests per type
 ![](https://github.com/vazquezger/papers/blob/master/figures/testsgraphicstale_numoftests.png)
 
-## Test coverage per type an Aggregated coverage
+## Test value and diminishing returns
+Diminishing returns is observed on a per type basis (not as an agregation of all test types)
+![](https://github.com/vazquezger/papers/blob/master/figures/testsgraphicstale_testvalue.png)
+
+## Test coverage per type
 ![](https://github.com/vazquezger/papers/blob/master/figures/testsgraphicstale_codecoverage.png)
 
-## Test value and diminishing returns
-![](https://github.com/vazquezger/papers/blob/master/figures/testsgraphicstale_testvalue.png)
+## Aggregated coverage
+![](https://github.com/vazquezger/papers/blob/master/figures/testsgraphicstale_agegatedcodecoverage.png)
 
 
