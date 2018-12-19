@@ -1,6 +1,9 @@
+# Graphical Tales
+- [Unit, integration and end to end tests](https://github.com/vazquezger/papers/blob/master/graphtale-testtype.md)
+- [On Complexity](https://github.com/vazquezger/papers/blob/master/graphtale-complexity.md)
+
 # Articles
 - [Sharding a data repository to allow concurrent readers](https://github.com/vazquezger/papers/blob/master/sharding-repo.md)
-- [Unit, integration and end to end tests: a graphical tale.](https://github.com/vazquezger/papers/blob/master/tests-graphics-tale.md)
 - [A case-based reasoning approach to derive object-oriented models from software architectures](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0394.2010.00533.x/abstract)
 - [Reusing design experiences to materialize software architectures into object-oriented designs](http://www.sciencedirect.com/science/article/pii/S0020025510001258)
 - [A Case-based Reasoning Approach for Materializing Software Architectures onto Object-Oriented Designs](http://dl.acm.org/citation.cfm?id=1363878)
