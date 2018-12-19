@@ -1,5 +1,5 @@
 # Graphical Tales
-- [Unit, integration and end to end tests](https://github.com/vazquezger/papers/blob/master/graphtale-test-types.md)
+- [Unit, integration and end to end tests](https://github.com/vazquezger/papers/blob/master/graphtale-tests-types.md)
 - [On Complexity](https://github.com/vazquezger/papers/blob/master/graphtale-complexity.md)
 
 # Articles
