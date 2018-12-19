@@ -4,9 +4,9 @@
 
 COMPLEXITY is a quality inherent of a system: talks about the system’s structure.
 - A system is more or less complex or simple;
-- omplexity is a function of the number of components and the number of relationships among components.
+- Complexity is a function of the number of components and the number of relationships among components.
 - Ok, ok, I know, it is not that simple :)
-- ...  actually, the semantics of the relationships increases/decreases a system’s complexity)
+-- ...  it is also the semantics of the relationships that increases/decreases the system’s complexity.
 ![](https://github.com/vazquezger/papers/blob/master/figures/graphtale-complexity-fig1.png)
 
 ## Operational quality
