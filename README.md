@@ -3,6 +3,7 @@
 - [On Complexity](https://github.com/vazquezger/papers/blob/master/graphtale-complexity.md)
 
 # Articles
+- [Lease-Sharded Outbox: a coordinator-less pattern for concurrent background processing](https://github.com/vazquezger/papers/blob/master/lease-sharded-outbox.md)
 - [Sharding a data repository to allow concurrent readers](https://github.com/vazquezger/papers/blob/master/sharding-repo.md)
 - [A case-based reasoning approach to derive object-oriented models from software architectures](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0394.2010.00533.x/abstract)
 - [Reusing design experiences to materialize software architectures into object-oriented designs](http://www.sciencedirect.com/science/article/pii/S0020025510001258)
